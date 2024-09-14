@@ -1,0 +1,7 @@
+{
+  "name": "List and Rent",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
